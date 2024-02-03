@@ -1,2 +1,2 @@
 # newrepo
-new_repo
+new_repo sal
